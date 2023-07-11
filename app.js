@@ -1,4 +1,4 @@
-//error handling exercise
+//error handling exercise//
 
 " use scrict";
 function parseToJSON(data) {
