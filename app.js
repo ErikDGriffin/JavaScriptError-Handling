@@ -1,3 +1,5 @@
+//error handling exercise
+
 " use scrict";
 function parseToJSON(data) {
   try{
@@ -14,3 +16,5 @@ let passData = JSON.stringify({ success: true });
 console.log(parseToJSON(failData));
 
 console.log(parseToJSON(passData));
+
+
